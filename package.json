@@ -1,0 +1,17 @@
+{
+  "name": "fesd_w6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.3"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
